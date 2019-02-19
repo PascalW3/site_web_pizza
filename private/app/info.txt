@@ -1,0 +1,1 @@
+Le rép APP stock les scripts communs à toutes les app.
