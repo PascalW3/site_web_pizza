@@ -11,6 +11,9 @@
  * 1.Définition des constantes 
  */
 
+// définir chemin du rép. "utils"
+define('UTILS_PATH', "../private/app/utils/");
+
 // WEBSITE_TITLE : D efinition du titre du site
 define('WEBSITE_TITLE', "WebPizza !");
 
