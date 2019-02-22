@@ -1,1 +1,1 @@
-Le rép APP stock les scripts communs à toutes les app.
+Le répertoire APP stock les scripts commun à toutes les applications
